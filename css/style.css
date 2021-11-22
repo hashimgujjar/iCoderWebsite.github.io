@@ -1,0 +1,146 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+  }
+
+  .container #para {
+    margin-left: auto;
+    margin-right: auto;
+    width: 835px;
+    margin-bottom: 100px;
+  }
+
+  .container #para2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 835px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+  }
+
+  #featurette1 .same {
+    text-align: center;
+    padding: 43px 15px;
+  }
+
+  #teachers{
+    margin-top: 50px;
+  }
+
+  #featurette1,
+  #featurette2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 835px;
+  }
+
+  #featurette1,
+  #featurette2 {
+    margin-top: 50px;
+    padding-top: 20px;
+  }
+
+  nav #n1 {
+    margin-left: 50px;
+  }
+
+  nav #n2,
+  #n3,
+  #n4 {
+    margin-left: 50px;
+  }
+
+  nav #n1:hover,
+  #n2:hover,
+  #n3:hover,
+  #n4:hover {
+    color: white;
+  }
+
+  nav  form  #bt{
+    font-size: 16px;
+    font-weight: bold;
+    color: #999b9d;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  #carouselExampleCaptions {
+    margin-bottom: 100px;
+  }
+
+
+  #courses {
+    margin-bottom: 150px;
+  }
+
+  #carouselExampleCaptions img {
+    width: 1800px;
+    height: 600px;
+    opacity: 0.8;
+  }
+
+  #carrd img {
+    height: 250px;
+  }
+
+  .marketing p{
+    padding: 0 10px;
+    text-align: center;
+    margin-bottom: 80px;
+  }
+
+  .marketing img {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 174px;
+    width: 192px;
+    margin-left: 76px;
+  }
+
+  #why .text-center{
+    margin-top: 90px;
+    margin-bottom: 30px;
+  }
+
+  #why p{
+    width: 850px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .col-7 ul{
+   
+    margin-top: 65px;
+    margin-left: 65px;
+  }
+
+  .col-7 li a{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    line-height: 70px;
+  }
+
+  #contact{
+      width: 700px;
+      margin: auto;
+  }
+
+  #contact label{
+        margin-top: 20px;
+        font-weight: bold;    
+}
+
+  #contact button{
+        margin-top: 40px;
+        border: 1px solid red;
+        border-radius: 15px;
+        width: 200px; 
+        margin-left: 250px;
+        margin-bottom: 130px;
+}
+
+  #contact .text-center{
+        margin-top: 100px;
+}
